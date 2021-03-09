@@ -1,0 +1,16 @@
+.logo__text,
+.services-desc__text-bold {
+  font-family: 'PT Serif', serif;
+}
+
+.services-desc__text-normal {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.nav__link,
+.services-desc__btn {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
